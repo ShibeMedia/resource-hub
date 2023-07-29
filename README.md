@@ -1,7 +1,7 @@
 Dogecoin Awesome
 ==
 
-Dogecoin is an peer-to-peer electronic cash system that's taking the world by storm. Awesome Dogecoin is a list of products, services, libraries, archives - new & old.
+Dogecoin is an peer-to-peer electronic cash system that's taking the world by storm. Dogecoin Awesome is a list of products, services, libraries, archives - new & old.
 
 ## Getting Started
 
@@ -9,7 +9,11 @@ Dogecoin is an peer-to-peer electronic cash system that's taking the world by st
 
 `README.md` is the main file with the dogecoin product/serivce directory. <br>
 `~/write-up/...` is a folder for write-ups regarding the promise/demise of said project. <br>
-There is no license file as this information belongs in the Public Domain.
+`License` There is no license file as this information belongs in the Public Domain.
+
+### Contributing
+
+Feel free to add what ever you'd like by forking this repository and sumbitting PRs. Please note, this list is for things that have been released that people use or used previously. No "under construction" items, please. 
 
 ### Sections
 
