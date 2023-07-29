@@ -1,7 +1,7 @@
-Dogecoin FBG
+Dogecoin Awesome
 ==
 
-Dogecoin is an peer-to-peer electronic cash system that's taking the world by storm. Dogecoin FGB is a list of products, services, libraries, archives - new & old.
+Dogecoin is an peer-to-peer electronic cash system that's taking the world by storm. Awesome Dogecoin is a list of products, services, libraries, archives - new & old.
 
 ## Getting Started
 
