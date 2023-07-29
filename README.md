@@ -1,13 +1,16 @@
-Dogecoin Awesome
+Dogecoin FGB
 ==
 
-Dogecoin is an peer-to-peer electronic cash system that's taking the world by storm. Dogecoin Awesome is a list of products, services, libraries, archives - new & old.
+Dogecoin is an peer-to-peer electronic cash system that's taking the world by storm. Dogecoin FGB is a list of products, services, libraries, archives - new & old.
 
 ## Getting Started
 
 ### Files
 
-`README.md` is the main file with the dogecoin product/serivce directory. <br>
+`README.md` explains the repository. <br>
+`frontyard.md` is a list of active products/services.
+`backyard.md` is a list of active software/docs/libraries.
+`graveyard.md` is a list of inactive/archived items from the front and backyard lists.
 `~/write-up/...` is a folder for write-ups regarding the promise/demise of said project. <br>
 `License` There is no license file as this information belongs in the Public Domain.
 
@@ -15,15 +18,9 @@ Dogecoin is an peer-to-peer electronic cash system that's taking the world by st
 
 Feel free to add what ever you'd like by forking this repository and sumbitting PRs. Please note, this list is for things that have been released that people use or used previously. No "under construction" items, please. 
 
-### Sections
-
-- Frontyard = active products/services
-- Backyard = active software/docs/libraries
-- Graveyard = inactive/archives
-
 ### Includes
 
-Each item on the list will include:
+Each item on the lists will include:
 
 - The name of the product
 - Short description of what it is.
@@ -34,33 +31,7 @@ Optional Information:
 - If there's no write-up, it will be marked blank with a "-".
 
 
-Note: this list is written in CSV format to make it easy for anyone to add lines to it. Feel free to convert the content below to json at https://csvjson.com/.
-
-
-## List
-
-##### Frontyard
-
-```
-name, description, website, write-up 
-
-Tip My Site, Tip My Site is a QR generator for Dogecoin, https://tipmysite.com/, -
-
-Block Shibe, BlockShibe is a web app that tracks Dogecoin block statistics in real time, https://blockshibe.net/, -
-
-
-```
-
-##### Backyard
-
-```
-
-
-name, description, website, write-up
-
-```
-
-##### Graveyard
+Note: these lists are written in CSV format to make it easy for anyone to add lines to it or migrate them eleswhere. Feel free to convert the content below to json at https://csvjson.com/.
 
 ```
 name, description, website, write-up
