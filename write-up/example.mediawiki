@@ -1,0 +1,28 @@
+<pre> 
+  Title: Example
+  Author: Internet Assigned Numbers Authority <iana@iana.org>
+  URL: https://www.example.com/
+  Comments-Summary: No comments yet.
+  Comments-URI: https://github.com/ShibeMagazine/dogecoin-FBG/write-ups/Comments:Example
+  Status: Active
+  Type: Informational Website
+  Created: 1999-06-00
+</pre>
+
+==Promise==
+
+As described in RFC 2606 and RFC 6761, a number of domains such as example.com and example.org are maintained for documentation purposes. These domains may be used as illustrative examples in documents without prior coordination with the IANA. They are not available for registration or transfer.
+
+The IANA provides a web service on the example domain hosts to provide basic information on the purpose of the domain. These web services are provided as best effort, but are not designed to support production applications. While incidental traffic for incorrectly configured applications is expected, please do not design applications that require the example domains to have operating HTTP service.
+
+==Motivation==
+
+There is a need for a top level domain (TLD) name that can be used for creating names which, without fear of conflicts with current or future actual TLD names in the global DNS, can be used for examples in documentation.
+
+==Issues==
+
+There are no known issues with example.com.
+
+==Demise==
+
+Example.com is still active.
