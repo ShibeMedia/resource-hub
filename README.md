@@ -16,7 +16,7 @@ Dogecoin is an peer-to-peer electronic cash system that's taking the world by st
 
 ### Contributing
 
-Feel free to add what ever you'd like by forking this repository and sumbitting PRs. Please note, this list is for things that have been released that people use or used previously. No "under construction" items, please. Note: these lists are written in CSV format to make it easy for anyone to add lines to it or migrate them eleswhere. Feel free to convert the content below to json at https://csvjson.com/.
+Feel free to add what ever you'd like by forking this repository and sumbitting PRs. Please note, this list is for things that have been released that people use or used previously. No "under construction" items, please. Note: these lists are written in CSV format to make it easy for contributors, migrating the files eleswhere or coverting them to other file formats.
 
 ### CSV Includes
 
