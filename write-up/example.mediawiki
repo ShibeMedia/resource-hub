@@ -3,7 +3,7 @@
   Author: Internet Assigned Numbers Authority <iana@iana.org>
   URL: https://www.example.com/
   Comments-Summary: No comments yet.
-  Comments-URI: https://github.com/ShibeMagazine/dogecoin-FBG/write-ups/Comments:Example
+  Comments-URI: No comment section yet.
   Status: Active
   Type: Informational Website
   Created: 1999-06-00
