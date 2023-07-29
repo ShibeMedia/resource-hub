@@ -1,7 +1,7 @@
-Dogecoin FGB
+Dogecoin FBG
 ==
 
-Dogecoin is an peer-to-peer electronic cash system that's taking the world by storm. Dogecoin FGB is a collection of helpful dogecoin products, services, libraries, archives - new & old.
+Dogecoin is an peer-to-peer electronic cash system that's taking the world by storm. Dogecoin FBG is a collection of Dogecoin products, services, libraries and documentation - new & old. FBG stands for Frontyard, Backyard and Graveyard (explained below).
 
 ## Getting Started
 
