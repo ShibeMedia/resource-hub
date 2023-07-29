@@ -12,7 +12,7 @@ Dogecoin is an peer-to-peer electronic cash system that's taking the world by st
 `backyard.csv` is a list of active software/docs/libraries. <br>
 `graveyard.csv` is a list of inactive/archived items from the front and backyard lists. <br>
 `~/write-up/...` is a folder for write-ups regarding the promise/demise of said project. <br>
-`License` There is no license file as this information belongs in the Public Domain.
+Note: There is no license file as this information belongs in the Public Domain.
 
 ### Contributing
 
