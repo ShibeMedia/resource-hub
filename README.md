@@ -33,13 +33,9 @@ Optional Information:
 - A file path to a write-up about the product, service or its demise.
 - If there's no write-up, it will be marked blank with a "-".
 
---------------
 
-Note: this list is written in CSV format to make it easy for anyone to add lines to it. <br>
-Note: Feel free to convert the content below to json at https://csvjson.com/.
+Note: this list is written in CSV format to make it easy for anyone to add lines to it. Feel free to convert the content below to json at https://csvjson.com/.
 
-
--------------
 
 ## List
 
