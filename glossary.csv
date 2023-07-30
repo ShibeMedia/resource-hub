@@ -1,8 +1,8 @@
 term, definition, "tags", write_up_path
 
-Blockchain, "An append-only database that stores information about transactions in sequence", "-", ./write_up/cryptocurrency.mediawiki
-Coin, "A unit of exchange that lives to its own network.", "-", ./write_up/coin.mediawiki
+Blockchain, "An append-only database that stores information about transactions in sequence", -, ./write_up/cryptocurrency.mediawiki
+Coin, "A unit of exchange that lives to its own network.", -, ./write_up/coin.mediawiki
 Crypto, see "Cryptocurrency", -,-
-Cryptocurrency, "A digital currency that uses cryptographic techniques to secure money on the network.", "-", ./write_up/cryptocurrency.mediawiki
-Dogecoin, "Dogecoin is a community-driven cryptocurrency favoured by Shiba Inus worldwide.", "-", ./write_up/dogecoin.mediawiki
-Token, "A unit of exchange or representative asset that lives on another network.", "-", ./write_up/Token.mediawiki
+Cryptocurrency, "A digital currency that uses cryptographic techniques to secure money on the network.", -, ./write_up/cryptocurrency.mediawiki
+Dogecoin, "Dogecoin is a community-driven cryptocurrency favoured by Shiba Inus worldwide.", -, ./write_up/dogecoin.mediawiki
+Token, "A unit of exchange or representative asset that lives on another network.", -, ./write_up/Token.mediawiki
