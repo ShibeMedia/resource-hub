@@ -1,7 +1,7 @@
 Resources
 ==
 
-A collection of Dogecoin products, services, libraries and documentation - new & old. 
+Dogecoin products, services, libraries and documentation - new & old. 
 
 ## Getting Started
 
