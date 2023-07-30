@@ -1,0 +1,20 @@
+<pre> 
+  Cat. No: dml-0001
+  Title: Dogecoin.com website was created by Jackson Palmer.
+  Author: Daanksy Whitaker <Nostr:npub1ddy0ewspme5wasu5va66q05cggc7m8g0sgfexj263g9tw8yyydhq66jzd3>
+  Tags: Website, Logo, Jackson Palmer
+  Comments-Summary: No comments yet.
+  Comments-URI: No comment section yet.
+  Last Updated: 2023-07-30
+</pre>
+
+==Introduction==
+Website + <ref>Dogecoin.com Website, Internet Archive, https://web.archive.org/web/20131207010921/http://dogecoin.com/
+</ref>Confirmation <ref> Billy Markus, https://twitter.com/BillyM2k/status/1682147594850672640 </ref>
+==Body==
+
+==Conclusion==
+
+==References==
+===Citations===
+<references />
