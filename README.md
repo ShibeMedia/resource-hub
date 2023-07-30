@@ -1,6 +1,6 @@
-# Dogecoin Moments Log
+# Moments
 
-Moments in Dogecoins history, listed in chronological order.
+A log Dogecoins history, listed in chronological order.
 
 ## Getting Started
 
