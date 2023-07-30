@@ -1,28 +1,26 @@
-# Catalog Template
-A template for building simple datasets with numerous entries.
+# Dogecoin Moments Log
+
+Moments in Dogecoins history, listed in chronological order.
 
 ## Getting Started
 
 ### Files
 
 `README.md` explains the repository. <br>
-`x.csv` is a list of items in x catagory. <br>
-`y.csv` is a list of items in y catagory. (optional) <br>
-`z.csv` is a list of items in z catagory  (optional) <br>
-`~/write-up/...` is a folder for write-ups for additional s. <br>
-Note: you can designate catagories in the csv files themselves, or divide them if needed.
-Note: There is no license file as this information belongs in the Public Domain, feel free to add one for your project.
+`moments.csv` is a list of moments in Dogecoins history, listed in chronological order. <br>
+`moments/write_up/...` is a folder for articles on entries. Used for added context. <br>
+Note: There is no license file as this information belongs in the Public Domain.
 
 ### Contributing
 
-Explain the contributing guidelines. Note: these lists are written in CSV format to make it easy for contributors, migrating the files eleswhere or coverting them to other file formats.
+Feel free to add what ever you'd like by forking this repository and sumbitting PRs. Please note, this is list is for notable events.
 
 ### CSV Includes
 
-Each line on these lists will include:
+Each line on this list will include:
 
-- indexing number, string or name
-- some other detail.
-- some other detail.
+- the date the moment occured
+- a title for that moment
+- tags can be used to associated 2 moments to a common topic.
 - A file path to a write-up about entry. <br>
 Note: If there's no write-up, it will be marked blank with a "-".
