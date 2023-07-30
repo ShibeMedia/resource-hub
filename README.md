@@ -1,7 +1,7 @@
-Resources (aka Dogecoin FBG)
+Resources
 ==
 
-Dogecoin is an peer-to-peer electronic cash system that's taking the world by storm. Dogecoin FBG is a collection of Dogecoin products, services, libraries and documentation - new & old. FBG stands for Frontyard, Backyard and Graveyard (explained below).
+A collection of Dogecoin products, services, libraries and documentation - new & old. 
 
 ## Getting Started
 
@@ -22,7 +22,7 @@ Feel free to add what ever you'd like by forking this repository and sumbitting 
 
 Each line on these lists will include:
 
-- The name of the product
+- The name of the resource.
 - Short description of what it is.
 - URL to the product, service, library or archive. 
 - A file path to a write-up about the product, service or its demise. <br>
