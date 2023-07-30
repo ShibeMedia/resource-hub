@@ -1,9 +1,9 @@
 term, definition, tags, write_up_path
 
-Block, A record of transactions that occured over a period of time., -, ./write_up/block.mediawiki
-Blockchain, An append-only database that stores information about transactions in sequencial blocks., -, ./write_up/blockchain.mediawiki
+Block, A record of transactions that occured over a period of time., -, -
+Blockchain, An append-only database that stores information about transactions in sequencial blocks., -, -
 Coin, A unit of exchange that lives to its own network., -, ./write_up/coin.mediawiki
 Crypto, see Cryptocurrency, -,-
-Cryptocurrency, A digital currency that uses cryptographic techniques to secure money on the network., -, ./write_up/cryptocurrency.mediawiki
-Dogecoin, Acommunity-driven cryptocurrency favoured by Shiba Inus worldwide., -, ./write_up/dogecoin.mediawiki
-Token, A unit of exchange or representative asset that lives on another network., -, ./write_up/Token.mediawiki
+Cryptocurrency, A digital currency that uses cryptographic techniques to secure money on the network., -, -
+Dogecoin, Acommunity-driven cryptocurrency favoured by Shiba Inus worldwide., -, -
+Token, A unit of exchange or representative asset that lives on another network., -, -
