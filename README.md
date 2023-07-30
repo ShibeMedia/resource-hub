@@ -12,8 +12,7 @@ Note: There is no license file as this information belongs in the Public Domain.
 
 ### Contributing
 
-Feel free to add what ever you'd like by forking this repository and sumbitting PRs. Please note, this is list is for notable events.
-
+Feel free to add what ever you'd like by forking this repository and sumbitting PRs.
 ### CSV Includes
 
 Each line on this list will include:
