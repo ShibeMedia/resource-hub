@@ -1,5 +1,5 @@
 # Glossary
-A glossary of Dogecoin related terms and defintions.
+Dogecoin related terms and defintions.
 
 ## Getting Started
 
