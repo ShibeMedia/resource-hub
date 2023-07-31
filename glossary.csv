@@ -1,5 +1,6 @@
 term, definition, tags, write_up_path
 
+51% Attack, When greater than 50% of a network's validators are controlled by a single entity, -,-
 Block, A record of transactions that occured over a period of time., -, -
 Blockchain, An append-only database that stores information about transactions in sequencial blocks., -, -
 Coin, A unit of exchange that lives to its own network., -, -
