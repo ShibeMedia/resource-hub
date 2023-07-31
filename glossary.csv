@@ -1,23 +1,14 @@
 term, definition, tags, write_up_path
 
-51% Attack, When greater than 50% of a network's validators are controlled by a single entity, -,-
-
+51% Attack, When greater than 50% of a network's validators are controlled by a single entity, -, -
 Block, A record of transactions that occured over a period of time., -, -
-
 Blockchain, An append-only database that stores information about transactions in sequencial blocks., -, -
-
 Coin, A unit of exchange that lives to its own network., -, -
 Crypto, see Cryptocurrency, -, -
 Cryptocurrency, "A digital currency that uses cryptographic techniques to secure money on the network.", -, -
-
 Dogecoin, "A community-driven cryptocurrency favoured by Shiba Inus worldwide.", -, ./write_up/coin.mediawiki
-
 Layer, "A chunk of a networks stack of solutions catagorized by levels of abstraction.", -, -
-
 Layer 0, "A foundational layer "beneath" layer 1, which everything else is built upon. This layer is composed of people, machines, and environments.", -, -
-
 Layer 1, "Also known as L1, layer 1 describes the network protocol, which is described by the software.", -, -
-
 Layer 2, "A scaling solution, generally seen an innovation that entends the capacity of Layer 1.", -, -
-
 Token, A unit of exchange or representative asset that lives on another network., -, -
