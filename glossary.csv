@@ -8,7 +8,7 @@ Crypto, see Cryptocurrency, -, -
 Cryptocurrency, A digital currency that uses cryptographic techniques to secure money on the network., -, -
 Dogecoin, A community-driven cryptocurrency favoured by Shiba Inus worldwide., -, ./write_up/coin.mediawiki
 Layer, A slice of a network's stack of solutions catagorized by levels of abstraction., -, -
-Layer 0, "A foundational layer "beneath" layer 1, which everything else is built upon. This layer is composed of people, machines, and environments.", -, -
+Layer 0, "A foundational layer 'beneath' layer 1, which everything else is built upon. This layer is composed of people, machines, and environments.", -, -
 Layer 1, "Also known as L1, layer 1 describes the network protocol, which is described by the software.", -, -
 Layer 2, "A scaling solution, generally seen an innovation that entends the capacity of Layer 1.", -, -
 Token, A unit of exchange or representative asset that lives on another network., -, -
