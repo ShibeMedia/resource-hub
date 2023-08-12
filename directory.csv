@@ -1,3 +1,3 @@
 name, country_code, state_code, city, "tags", write_up_path
 
-DogeBeans, US, KY, Louisville, "cafe, coffee", ./write_up/dogeBeans.mediawiki
+DogeBeans, US, KY, Louisville, "cafe, coffee", /write_up/dogeBeans.mediawiki
