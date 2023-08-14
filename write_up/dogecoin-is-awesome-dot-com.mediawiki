@@ -10,7 +10,7 @@
 | registration = Not Required
 | language = English
 | current_status = Active
-| foundation = {{start date and age|2021|3|19}}<ref>{{Cite web|url=https://github.com/dogecoinisawesome-dot-com/DogecoinIsAwesome.com/releases/tag/v0.1.0|title=Ask.com|website=GitHub|access-date=2019-02-19}}</ref>
+| foundation = {{start date and age|2021|3|19}}<ref>{{Cite web|url=https://github.com/dogecoinisawesome-dot-com/DogecoinIsAwesome.com/releases/tag/v0.1.0|title=DogecoinIsAwesome.com|website=GitHub|access-date=2019-02-19}}</ref>
 | website_type = Educational
 | Employees = 
 | author = Jacek Trociński
