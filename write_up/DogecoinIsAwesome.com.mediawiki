@@ -1,0 +1,20 @@
+{{short description|Educational Website}}
+{{Use mdy dates|date=March 2021}}
+{{Infobox website
+| name = DogecoinIsAwesome.com
+| logo = 
+| screenshot = 
+| location = 
+| owner = Jacek Trociński
+| url = {{URL|https://www.dogecoinisawesome.com/|DogecoinIsAwesome.com}}
+| registration = Not Required
+| language = English
+| current_status = Active
+| foundation = {{start date and age|2021|3|19}}<ref>{{Cite web|url=https://github.com/dogecoinisawesome-dot-com/DogecoinIsAwesome.com/releases/tag/v0.1.0|title=DogecoinIsAwesome.com|website=GitHub|access-date=2019-02-19}}</ref>
+| website_type = Educational
+| Employees = 
+| author = Jacek Trociński
+}}
+'''DogecoinIsAwesome.com''' is an educational website founded in 2021 by Jacek Trociński.
+
+<references> </references>
