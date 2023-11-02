@@ -1,4 +1,16 @@
-name, description, status, url, write_up path 
+name, description, status, url, write_up_path
+
+Dogecoin Core (Github), A Git repository for devs to work collaboratively on Dogecoin software, active, https://github.com/dogecoin/dogecoin/, -
+
+Dogecoin Is Awesome!, A Guide to Dogecoin Core, active, https://dogecoinisawesome.com/, /write_up/dogecoin-is-awesome-dot-com.mediawiki
+
+Dogecoin.com, Information about Dogecoin, active, https://dogecoin.com/, - 
+
+What is dogecoin?, Information about Dogecoin, active, https://what-is-dogecoin.com/, -
+
+Dogecoin Foundation, a technology company, active, https://foundation.dogecoin.com/, - 
+
+Shibe Glossary, A glossary of terms relating to Doge., active, https://github.com/ShibeMagazine/glossary, -
 
 Tip My Site, Tip My Site is a QR generator for Dogecoin, active, https://tipmysite.com/, -
 
