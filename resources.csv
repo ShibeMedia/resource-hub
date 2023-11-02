@@ -1,4 +1,14 @@
-name, description, website, status, write-up 
+name, description, status, url, write_up path 
+
+Tip My Site, Tip My Site is a QR generator for Dogecoin, active, https://tipmysite.com/, -
+
+Shibe Mint, Buy physical dogecoins made with precious metals., active, https://shibemint.com/, -
+
+Shibe Magazine, Dogecoin News, active, https://shibe.news/, -
+
+MyDoge Wallet, Social Wallet for Dogecoin, active, https://mydoge.com/, -
+
+Wrapped Dogecoin, wDoge makes use of a token bridge from Dogecoin to Ethereum, not active, https://www.wdoge.tech/, -
 
 Block Shibe, BlockShibe is a web app that tracks Dogecoin block statistics in real time, not active, https://web.archive.org/web/20220803041125/https://blockshibe.net/, -
 
