@@ -12,7 +12,11 @@ Note: There is no license file as this information belongs in the Public Domain.
 
 ### Contributing
 
-Feel free to add what ever you'd like by forking this repository and sumbitting PRs. Important to note that the information included in this repository may be used by anyone for any purpose.
+Feel free to add what ever you'd like by forking this repository and sumbitting PRs. Important to note that the information included in this repository may be used by anyone for any purpose.\
+
+#### Branches
+
+The main branch of this repository is the latest release. All development occurs in "dev" branches. Currently all pull requests should be proposed against the `v1-dev` branch.
 
 ### CSV Includes
 
