@@ -16,6 +16,10 @@ Note: There is no license file as this information belongs in the Public Domain.
 
 Feel free to add what ever you'd like by forking this repository and sumbitting PRs. Please note, this list is for things that have been released that people use or used previously. No "under construction" items, please. Note: these lists are written in CSV format to make it easy for contributors, migrating the files eleswhere or coverting them to other file formats.
 
+#### Branches
+
+The main branch of this repository is the latest release. All development occurs in "dev" branches. Currently all pull requests should be proposed against the `v1-dev` branch. 
+
 ### CSV Includes
 
 Each line on this list will include:
